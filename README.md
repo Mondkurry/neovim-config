@@ -8,8 +8,6 @@ My personal neovim config.
 | :----------: | :------------------------------------------------ |
 | `<leader>pv` | Open file explorer                                |
 | `ctrl+hjkl`  | General Neovim way to switch between panes        |
-| `r`          | Rename a file                                     |
-| `x` -> `p`   | Use x and p to cut and paste files                |
 | `a`          | Adds a new file                                   |
 | `r`          | Rename a file                                     |
 | `x` -> `p`   | Use x and p to cut and paste files                |
