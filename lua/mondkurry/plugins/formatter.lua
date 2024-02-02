@@ -16,10 +16,10 @@ return {
       },
 
       lua = {
-	      require("formatter.filetypes.lua").stylua,
+	      require("formatter.filetypes.lua").luaformat,
       },
 
-      ["*"] = {				 
+      ["*"] = {
         require("formatter.filetypes.any").remove_trailing_whitespace,
         },
 
