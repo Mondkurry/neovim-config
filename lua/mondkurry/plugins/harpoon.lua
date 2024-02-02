@@ -68,6 +68,18 @@ return {
         end,
         desc = "harpoon to file 3",
       },
+      --[[ {
+        "<leader>t",
+        function()
+            local term = require("harpoon.term") -- Correctly require the `harpoon.term` module
+            if #term.get_all() == 0 then
+                -- If no terminal is harpooned, add the current terminal
+                term.add(1)
+            end
+            term.gotoTerminal(1) -- Navigate to the first terminal
+        end,
+        desc = "Harpoon to terminal or create one if it doesn't exist",
+      }, ]]
     },
   },
 }
