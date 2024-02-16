@@ -1,5 +1,6 @@
 local setup = {
-  flavour = "mocha"
+  flavour = "mocha",
+  transparent_background = true,
 }
 
 return {
