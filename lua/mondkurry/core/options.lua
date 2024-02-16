@@ -20,6 +20,9 @@ opt.smartcase = true -- if you include mixed case in your search, assumes you wa
 -- cursor line
 opt.cursorline = false -- highlight the current cursor line
 
+-- Doesn't work yet: Need to figure out how to highlight just the number without the whole line
+-- vim.api.nvim_set_hl(0, 'CursorLineNr', { fg = 'Yellow', bg = 'None' })
+
 -- appearance
 
 -- turn on termguicolors for nightfly colorscheme to work
