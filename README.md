@@ -1,7 +1,10 @@
 # My personal neovim config.
-_readme updated Feb 1_
+_readme updated Feb 23_
 
-<img width="1672" alt="image" src="https://github.com/Mondkurry/neovim-config/assets/30964417/52d13c02-7af4-4da7-8637-938573f12328">
+<img width="1750" alt="image" src="https://github.com/Mondkurry/neovim-config/assets/30964417/f31adbb4-a39f-481d-b70f-4ffd111856d0">
+<img width="1750" alt="image" src="https://github.com/Mondkurry/neovim-config/assets/30964417/60e70da9-822b-4ba1-a8de-bf2ed83b0ae4">
+
+
 
 ## File Tree
 **_Clone in ~/.config/nvim_**
